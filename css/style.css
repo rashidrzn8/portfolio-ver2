@@ -4099,6 +4099,9 @@ section {
 
 /* MOBILE VIEW FIX (up to 768px) */
 @media (max-width: 768px) {
+  .home {
+    padding: 6px 10px;
+  }
   .home-hero {
     display: flex;
     flex-direction: column;
@@ -4141,7 +4144,7 @@ section {
 
   /* CONTENT BELOW VIDEO */
   .home-content {
-    padding: 20px 15px;
+    padding: 2px 9px;
     text-align: center;
   }
 
